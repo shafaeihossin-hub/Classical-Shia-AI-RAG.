@@ -1,4 +1,5 @@
 # Classical-Shia-AI-RAG.
+📄 [Read the full Research Paper here](./Agentic_RAG_Theology_Paper.pdf)
 Investigating the performance and limitations of Local LLMs in Retrieval-Augmented Generation (RAG) for classical and specialized theological datasets.
 ## 🛠 Tech Stack
 - Language: Python
